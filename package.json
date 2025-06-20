@@ -1,0 +1,13 @@
+{
+  "name": "battle-royale-game",
+  "version": "1.0.0",
+  "description": "2D 線上大逃殺射擊遊戲",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
